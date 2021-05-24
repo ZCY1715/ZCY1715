@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @ZCY1715
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ZCY1715/ZCY1715 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 欢迎大家~~~
 
 本人是在校大学生一枚，目前正在学习前端各种知识，主要是react相关
@@ -19,4 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 一起干巴得！o(*￣▽￣*)o
 
-个人博客：https://zcy.fit
+个人博客：https : //zcy.fit
+
+联系我：
+    email：zcy1715614103@163.com
+    QQ：1715614103
+    WeChat：ZCY1715614103
